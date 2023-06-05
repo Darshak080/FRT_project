@@ -1,37 +1,37 @@
-# ["Level-Up Lifestyle" Website using Microsoft Azure Technologies](https://jolly-sand-0b9be0e10.1.azurestaticapps.net)
+Lifestyle Luxe
 
-Project Link : https://jolly-sand-0b9be0e10.1.azurestaticapps.net
+Explore the world of fashion and style with Lifestyle Luxe, your premier online destination for trendy outfits and accessories. Shop effortlessly, discover the latest fashion trends, and redefine your lifestyle.
 
-Demo Video : https://vimeo.com/718651949
+Visit Website: [Lifestyle Luxe](https://ashy-ocean-0f84f8f10.3.azurestaticapps.net)
 
-_______________________________________________________________________________________________________________________________________________________________________
+![Lifestyle Luxe Screenshot](https://github.com/Darshak080/FRT-Project/assets/76243813/e3b5610f-8c97-4ac6-8545-7602509d5f92)
 
-Web Technologies used : HTML, CSS, JS, Bootstrap
+Features:
+- Stunning banner text slider that captivates your attention
+- Eye-catching hover effects for an enhanced visual experience
+- Smooth scrolling navigation for seamless browsing
+- Gallery lightbox effect to showcase products in a mesmerizing way
+- Responsive design, ensuring a flawless experience on any device
+- Cross-browser compatibility for easy access across platforms
 
-IDE : VS-Code
+Technologies Used:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
-Industry : Lifestyle
+Get Started:
+1. Clone the repository: `git clone https://github.com/Darshak080/lifestyle-luxe.git`
+2. Open the project in your preferred code editor.
+3. Launch the `index.html` file in your web browser.
+4. Explore the website and start shopping!
 
-Project Title : Level-Up Lifestyle
+Deployed with Microsoft Azure:
+Lifestyle Luxe leverages the power of Microsoft Azure to provide a reliable and scalable infrastructure. The website is deployed using Azure Static Web Apps and Web Apps, ensuring optimal performance and a seamless shopping experience for our customers.
 
-Problem Statement/Opportunity :
-
-A small business wants to build a smart and elegantly designed website as the online shopping industry has been growing at an incredible rate in today's world. To build a whole website they have chosen Azure Cloud Platform. Build a website that have awesome features like banner text slider, eye-catching hover effects, smooth scrolling navigation, gallery light box effect, and much more to serve their customers.
-
-Project Description :
-
-I have created an online store named " Level-up Lifestyle " using boot strap framework, HTML, CSS, and Javascript. It helps people to choose and explore trendy outfits according to their daily style needs. This smart and elegantly designed website has awesome features like banner text slider, eye-catching hover effects, smooth scrolling navigation, gallery light box effect, and much more. This website is a 100% responsive cross-browser template, compatible on all devices, and displayed on all screen sizes. This project is created both for sellers and customers as it has an attractive design to draw customers' attention and helps the seller to showcase their best products. This way a customer can get any product at his/her doorstep without actually stepping out of the home. I am using Microsoft Azure with Github to deploy the website and finish this project.
-
-Primary Azure Technology : Static Web Apps, Web Apps
-
-# Screenshots
-
-![Screenshot (372)](https://user-images.githubusercontent.com/77123160/171273858-3505a3e3-3e9a-4c2d-8271-36744124ab02.png)
-
-![Screenshot (373)](https://user-images.githubusercontent.com/77123160/171273879-188ccde3-9c39-46d5-9b9e-987a6c992c6c.png)
-
-![Screenshot (374)](https://user-images.githubusercontent.com/77123160/171273935-4c448ec6-13cf-45a4-9fce-aab0993ed649.png)
-
-![Screenshot (375)](https://user-images.githubusercontent.com/77123160/171273942-5b9d6322-f129-4ba4-a7f7-94b4bc7678a9.png)
+Contributing:
+We welcome contributions from the community! If you have any ideas, suggestions, or bug reports, please feel free to open an issue or submit a pull request.
 
 
+---
+&copy; 2023 Lifestyle Luxe. All rights reserved.
