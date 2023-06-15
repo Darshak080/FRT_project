@@ -12,6 +12,9 @@ Click Here For video 👉 [Azure Services Usage](https://www.veed.io/view/c3d400
 
 ![image](https://github.com/Darshak080/FRT-Project/assets/76243813/4ebef6ca-abb1-4e68-b645-881b48e19193)
 
+![image](https://github.com/Darshak080/FRT-Project/assets/76243813/1ba39781-10e5-42eb-ba6e-aacdd4f51809)
+
+
 
 Features:
 - Stunning banner text slider that captivates your attention
