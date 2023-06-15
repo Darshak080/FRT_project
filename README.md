@@ -6,7 +6,12 @@ Visit Website: [Lifestyle Luxe](https://darshak080.z29.web.core.windows.net)
 
 ![Lifestyle Luxe Screenshot](https://github.com/Darshak080/FRT-Project/assets/76243813/e3b5610f-8c97-4ac6-8545-7602509d5f92)
 
-Demo Video: (https://www.veed.io/view/9aa7a0b4-479f-4a80-92ef-d5ca28cb3a5b?sharingWidget=true&panel=share)
+[Demo Video](https://www.veed.io/view/9aa7a0b4-479f-4a80-92ef-d5ca28cb3a5b?sharingWidget=true&panel=share)
+
+Click Here For video 👉 [Azure Services Usage](https://www.veed.io/view/c3d4003d-2bc2-4753-987a-d4daf740c986?panel=share) 
+
+![image](https://github.com/Darshak080/FRT-Project/assets/76243813/4ebef6ca-abb1-4e68-b645-881b48e19193)
+
 
 Features:
 - Stunning banner text slider that captivates your attention
