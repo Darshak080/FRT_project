@@ -2,17 +2,23 @@ Lifestyle Luxe
 
 Explore the world of fashion and style with Lifestyle Luxe, your premier online destination for trendy outfits and accessories. Shop effortlessly, discover the latest fashion trends, and redefine your lifestyle.
 
-Visit Website: [Lifestyle Luxe](https://darshak080.z19.web.core.windows.net)
+**Visit Website:** [Lifestyle Luxe](https://darshak080.z19.web.core.windows.net)
 
 ![Lifestyle Luxe Screenshot](https://github.com/Darshak080/FRT-Project/assets/76243813/e3b5610f-8c97-4ac6-8545-7602509d5f92)
 
-Website Demo 👉 [Demo Video](https://www.veed.io/view/9aa7a0b4-479f-4a80-92ef-d5ca28cb3a5b?sharingWidget=true&panel=share)
+**Website Demo** 👉 [Demo Video](https://www.veed.io/view/9aa7a0b4-479f-4a80-92ef-d5ca28cb3a5b?sharingWidget=true&panel=share)
 
-Click Here For video 👉 [Azure Services Usage](https://www.veed.io/view/c3d4003d-2bc2-4753-987a-d4daf740c986?panel=share) 
+**Container Azure Service Demo** 👉 [Container Demo Video](https://www.veed.io/view/31f31fba-652c-4835-b78c-30013f7733a8?panel=share)
+
+**Click Here For Azure video** 👉 [Azure Services Usage](https://www.veed.io/view/c3d4003d-2bc2-4753-987a-d4daf740c986?panel=share) 
 
 ![image](https://github.com/Darshak080/FRT-Project/assets/76243813/4ebef6ca-abb1-4e68-b645-881b48e19193)
 
-![image](https://github.com/Darshak080/FRT-Project/assets/76243813/1ba39781-10e5-42eb-ba6e-aacdd4f51809)
+Code Deployed In Azure 
+
+![Image](https://github.com/Darshak080/FRT-Project/assets/76243813/1ba39781-10e5-42eb-ba6e-aacdd4f51809)
+
+
 
 
 
