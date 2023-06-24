@@ -2,7 +2,7 @@ Lifestyle Luxe
 
 Explore the world of fashion and style with Lifestyle Luxe, your premier online destination for trendy outfits and accessories. Shop effortlessly, discover the latest fashion trends, and redefine your lifestyle.
 
-Visit Website: [Lifestyle Luxe](https://darshak080.z29.web.core.windows.net)
+Visit Website: [Lifestyle Luxe](https://darshak080.z19.web.core.windows.net)
 
 ![Lifestyle Luxe Screenshot](https://github.com/Darshak080/FRT-Project/assets/76243813/e3b5610f-8c97-4ac6-8545-7602509d5f92)
 
