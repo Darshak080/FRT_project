@@ -280,7 +280,7 @@ body{
   padding: 0;
 }
 .rslides li {
-  -webkit-backface-visibility: hidden;
+  -webkit-backface-visibility: ;
   position: absolute;
   display:none;
   width: 100%;
